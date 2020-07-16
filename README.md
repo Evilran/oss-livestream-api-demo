@@ -38,7 +38,7 @@ bash docker.sh
 
 * *拉流*
 
-http://[BUCKET].[REGION].aliyuncs.com/[CHANNEL]/[LIVESTREAM].m3u8
+http://[BUCKET].[REGION].aliyuncs.com/[PREFIX]/[CHANNEL]/[LIVESTREAM].m3u8
 
 
 
